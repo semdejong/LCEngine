@@ -1,0 +1,34 @@
+{
+  "declarationVariables": {
+    "storage": {
+      "prototype": "storage NAME",
+      "description": "Creates an editable variable",
+      "translations": {
+        "JS": {
+          "prototype": "let NAME",
+          "translation": "let NAME"
+        }
+      }
+    },
+    "const": {
+      "prototype": "const NAME",
+      "description": "Creates an non editable variable",
+      "translations": {
+        "JS": {
+          "prototype": "const NAME",
+          "translation": "const NAME"
+        }
+      }
+    },
+    "var": {
+      "prototype": "var NAME",
+      "description": "Creates an global editable variable",
+      "translations": {
+        "JS": {
+          "prototype": "var NAME",
+          "translation": "var NAME"
+        }
+      }
+    }
+  }
+}

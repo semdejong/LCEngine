@@ -1,0 +1,180 @@
+{
+  "arithmeticOperators": {
+    "+": {
+      "prototype": "DATA_TYPE + DATA_TYPE",
+      "description": "Addition",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE + DATA_TYPE",
+          "translation": "+"
+        }
+      }
+    },
+    "-": {
+      "prototype": "DATA_TYPE - DATA_TYPE",
+      "description": "Subtraction",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE - DATA_TYPE",
+          "translation": "-"
+        }
+      }
+    },
+    "*": {
+      "prototype": "DATA_TYPE * DATA_TYPE",
+      "description": "Multiplication",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE * DATA_TYPE",
+          "translation": "*"
+        }
+      }
+    },
+    "/": {
+      "prototype": "DATA_TYPE / DATA_TYPE",
+      "description": "Division",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE / DATA_TYPE",
+          "translation": "/"
+        }
+      }
+    },
+    "%": {
+      "prototype": "DATA_TYPE % DATA_TYPE",
+      "description": "Modulo",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE % DATA_TYPE",
+          "translation": "%"
+        }
+      }
+    },
+    "^": {
+      "prototype": "DATA_TYPE ^ DATA_TYPE",
+      "description": "Exponentiation",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE ^ DATA_TYPE",
+          "translation": "**"
+        }
+      }
+    },
+    "//": {
+      "prototype": "DATA_TYPE // DATA_TYPE",
+      "description": "Floor division",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE // DATA_TYPE",
+          "translation": "//"
+        }
+      }
+    }
+  },
+  "comparisonOperators": {
+    "==": {
+      "prototype": "DATA_TYPE == DATA_TYPE",
+      "description": "Equal to",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE == DATA_TYPE",
+          "translation": "==="
+        }
+      }
+    },
+    "!=": {
+      "prototype": "DATA_TYPE != DATA_TYPE",
+      "description": "Not equal to",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE != DATA_TYPE",
+          "translation": "!=="
+        }
+      }
+    },
+    ">": {
+      "prototype": "DATA_TYPE > DATA_TYPE",
+      "description": "Greater than",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE > DATA_TYPE",
+          "translation": ">"
+        }
+      }
+    },
+    "<": {
+      "prototype": "DATA_TYPE < DATA_TYPE",
+      "description": "Less than",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE < DATA_TYPE",
+          "translation": "<"
+        }
+      }
+    },
+    ">=": {
+      "prototype": "DATA_TYPE >= DATA_TYPE",
+      "description": "Greater than or equal to",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE >= DATA_TYPE",
+          "translation": ">=="
+        }
+      }
+    },
+    "<=": {
+      "prototype": "DATA_TYPE <= DATA_TYPE",
+      "description": "Less than or equal to",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE <= DATA_TYPE",
+          "translation": "<=="
+        }
+      }
+    }
+  },
+  "logicalOperators": {
+    "&&": {
+      "prototype": "DATA_TYPE && DATA_TYPE",
+      "description": "Logical AND",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE && DATA_TYPE",
+          "translation": "&&"
+        }
+      }
+    },
+    "||": {
+      "prototype": "DATA_TYPE || DATA_TYPE",
+      "description": "Logical OR",
+      "translations": {
+        "JS": {
+          "prototype": "DATA_TYPE || DATA_TYPE",
+          "translation": "||"
+        }
+      }
+    },
+    "!": {
+      "prototype": "!DATA_TYPE",
+      "description": "Logical NOT",
+      "translations": {
+        "JS": {
+          "prototype": "!DATA_TYPE",
+          "translation": "!"
+        }
+      }
+    }
+  },
+  "assignOperators": {
+    "=": {
+      "prototype": "VARIABLE = DATA_TYPE",
+      "description": "Assignment",
+      "translations": {
+        "JS": {
+          "prototype": "VARIABLE = DATA_TYPE",
+          "translation": "="
+        }
+      }
+    }
+  }
+}

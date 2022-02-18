@@ -1,0 +1,100 @@
+{
+  "loopsKeywords": {
+    "while": {
+      "prototype": "while CONDITION",
+      "description": "Executes the code block while the condition is true.",
+      "translations": {
+        "JS": {
+          "prototype": "while (CONDITION){",
+          "translation": "while (CONDITION){"
+        }
+      }
+    },
+    "for": {
+      "prototype": "for CONDITION",
+      "description": "Executes the code block according to its condition.",
+      "translations": {
+        "JS": {
+          "prototype": "for (CONDITION)",
+          "translation": "for (CONDITION) {"
+        }
+      }
+    },
+    "foreach": {
+      "prototype": "foreach VARIABLE IN VARIABLE<array>",
+      "description": "Executes the code block for each element in the array.",
+      "translations": {
+        "JS": {
+          "prototype": "for (let VARIABLE in VARIABLE<array>)",
+          "translation": "for (let VARIABLE in VARIABLE) {"
+        }
+      }
+    }
+  },
+  "functionalKeywords": {
+    "function": {
+      "prototype": "function NAME(ARGUMENTS)",
+      "description": "Creates a function.",
+      "translations": {
+        "JS": {
+          "prototype": "function NAME(ARGUMENTS)",
+          "translation": "function NAME(ARGUMENTS) {"
+        }
+      }
+    },
+    "func": {
+      "prototype": "function NAME(ARGUMENTS)",
+      "description": "Creates a function.",
+      "translations": {
+        "JS": {
+          "prototype": "function NAME(ARGUMENTS)",
+          "translation": "function NAME(ARGUMENTS) {"
+        }
+      }
+    }
+  },
+  "conditionalKeywords": {
+    "if": {
+      "prototype": "if CONDITION",
+      "description": "Executes the code block if the condition is true.",
+      "translations": {
+        "JS": {
+          "prototype": "if (CONDITION)",
+          "translation": "if (CONDITION) {"
+        }
+      }
+    },
+    "elseif": {
+      "prototype": "elseif CONDITION",
+      "description": "Executes the code block if the condition is true.",
+      "translations": {
+        "JS": {
+          "prototype": "else if (CONDITION)",
+          "translation": "else if (CONDITION) {"
+        }
+      }
+    },
+    "else": {
+      "prototype": "else",
+      "description": "Executes the code block if the condition is false.",
+      "translations": {
+        "JS": {
+          "prototype": "else",
+          "translation": "else {"
+        }
+      }
+    }
+  },
+  "closeableKeywords": {
+    "end": {
+      "prototype": "end",
+      "description": "Closes the current block.",
+      "translations": {
+        "JS": {
+          "prototype": "}",
+          "translation": "}"
+        }
+      }
+    }
+  }
+}

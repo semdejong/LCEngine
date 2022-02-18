@@ -1,0 +1,104 @@
+{
+  "nonPrimitiveDataTypes": {
+    "{": {
+      "prototype": "{",
+      "description": "The opening of an object.",
+      "translations": {
+        "JS": {
+          "prototype": "{",
+          "translation": "{"
+        }
+      }
+    },
+    "}": {
+      "prototype": "}",
+      "description": "The closing of an object. ",
+      "translations": {
+        "JS": {
+          "prototype": "}",
+          "translation": "}"
+        }
+      }
+    },
+    "[": {
+      "prototype": "[",
+      "description": "The opening of an array.",
+      "translations": {
+        "JS": {
+          "prototype": "[",
+          "translation": "["
+        }
+      }
+    },
+    "]": {
+      "prototype": "]",
+      "description": "The closing of an array.",
+      "translations": {
+        "JS": {
+          "prototype": "]",
+          "translation": "]"
+        }
+      }
+    },
+    "true": {
+      "prototype": "true",
+      "description": "The boolean true.",
+      "translations": {
+        "JS": {
+          "prototype": "true",
+          "translation": "true"
+        }
+      }
+    },
+    "false": {
+      "prototype": "false",
+      "description": "The boolean false.",
+      "translations": {
+        "JS": {
+          "prototype": "false",
+          "translation": "false"
+        }
+      }
+    },
+    "null": {
+      "prototype": "null",
+      "description": "The null value.",
+      "translations": {
+        "JS": {
+          "prototype": "null",
+          "translation": "null"
+        }
+      }
+    },
+    "undefined": {
+      "prototype": "undefined",
+      "description": "The undefined value.",
+      "translations": {
+        "JS": {
+          "prototype": "undefined",
+          "translation": "undefined"
+        }
+      }
+    },
+    "'": {
+      "prototype": "'",
+      "description": "The single quote character.",
+      "translations": {
+        "JS": {
+          "prototype": "'",
+          "translation": "'"
+        }
+      }
+    },
+    "\"": {
+      "prototype": "\"",
+      "description": "The double quote character.",
+      "translations": {
+        "JS": {
+          "prototype": "\"",
+          "translation": "\""
+        }
+      }
+    }
+  }
+}
