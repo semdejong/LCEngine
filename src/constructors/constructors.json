@@ -1,0 +1,41 @@
+{
+  "functionalConstructors": {
+    "ARGUMENTS": {
+      "class": "CONSTRUCTOR",
+      "prototype": "(ARGUMENTS)",
+      "description": "Arguments constructor",
+      "translations": {
+        "JS": {
+          "prototype": "(ARGUMENTS)",
+          "translation": "(ARGUMENTS)"
+        }
+      }
+    }
+  },
+  "conditionalConstructors": {
+    "CONDITION": {
+      "class": "CONSTRUCTOR",
+      "prototype": "CONDITION",
+      "description": "Condition constructor",
+      "translations": {
+        "JS": {
+          "prototype": "(CONDITION)",
+          "translation": "(CONDITION)"
+        }
+      }
+    }
+  },
+  "namingConstructors": {
+    "NAME": {
+      "class": "CONSTRUCTOR",
+      "prototype": "NAME",
+      "description": "Naming constructor",
+      "translations": {
+        "JS": {
+          "prototype": "NAME",
+          "translation": "NAME"
+        }
+      }
+    }
+  }
+}
