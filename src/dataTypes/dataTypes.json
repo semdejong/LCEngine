@@ -1,6 +1,7 @@
 {
   "nonPrimitiveDataTypes": {
     "{": {
+      "class": "DATA_TYPE",
       "prototype": "{",
       "description": "The opening of an object.",
       "translations": {
@@ -11,6 +12,7 @@
       }
     },
     "}": {
+      "class": "DATA_TYPE",
       "prototype": "}",
       "description": "The closing of an object. ",
       "translations": {
@@ -21,6 +23,7 @@
       }
     },
     "[": {
+      "class": "DATA_TYPE",
       "prototype": "[",
       "description": "The opening of an array.",
       "translations": {
@@ -31,6 +34,7 @@
       }
     },
     "]": {
+      "class": "DATA_TYPE",
       "prototype": "]",
       "description": "The closing of an array.",
       "translations": {
@@ -41,6 +45,7 @@
       }
     },
     "true": {
+      "class": "DATA_TYPE",
       "prototype": "true",
       "description": "The boolean true.",
       "translations": {
@@ -51,6 +56,7 @@
       }
     },
     "false": {
+      "class": "DATA_TYPE",
       "prototype": "false",
       "description": "The boolean false.",
       "translations": {
@@ -61,6 +67,7 @@
       }
     },
     "null": {
+      "class": "DATA_TYPE",
       "prototype": "null",
       "description": "The null value.",
       "translations": {
@@ -71,6 +78,7 @@
       }
     },
     "undefined": {
+      "class": "DATA_TYPE",
       "prototype": "undefined",
       "description": "The undefined value.",
       "translations": {
@@ -81,6 +89,7 @@
       }
     },
     "'": {
+      "class": "DATA_TYPE",
       "prototype": "'",
       "description": "The single quote character.",
       "translations": {
@@ -91,6 +100,7 @@
       }
     },
     "\"": {
+      "class": "DATA_TYPE",
       "prototype": "\"",
       "description": "The double quote character.",
       "translations": {

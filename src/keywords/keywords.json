@@ -1,6 +1,7 @@
 {
   "loopsKeywords": {
     "while": {
+      "class": "KEYWORD",
       "prototype": "while CONDITION",
       "description": "Executes the code block while the condition is true.",
       "translations": {
@@ -11,6 +12,7 @@
       }
     },
     "for": {
+      "class": "KEYWORD",
       "prototype": "for CONDITION",
       "description": "Executes the code block according to its condition.",
       "translations": {
@@ -21,6 +23,7 @@
       }
     },
     "foreach": {
+      "class": "KEYWORD",
       "prototype": "foreach VARIABLE IN VARIABLE<array>",
       "description": "Executes the code block for each element in the array.",
       "translations": {
@@ -33,6 +36,7 @@
   },
   "functionalKeywords": {
     "function": {
+      "class": "KEYWORD",
       "prototype": "function NAME(ARGUMENTS)",
       "description": "Creates a function.",
       "translations": {
@@ -43,6 +47,7 @@
       }
     },
     "func": {
+      "class": "KEYWORD",
       "prototype": "function NAME(ARGUMENTS)",
       "description": "Creates a function.",
       "translations": {
@@ -55,6 +60,7 @@
   },
   "conditionalKeywords": {
     "if": {
+      "class": "KEYWORD",
       "prototype": "if CONDITION",
       "description": "Executes the code block if the condition is true.",
       "translations": {
@@ -65,6 +71,7 @@
       }
     },
     "elseif": {
+      "class": "KEYWORD",
       "prototype": "elseif CONDITION",
       "description": "Executes the code block if the condition is true.",
       "translations": {
@@ -75,6 +82,7 @@
       }
     },
     "else": {
+      "class": "KEYWORD",
       "prototype": "else",
       "description": "Executes the code block if the condition is false.",
       "translations": {
@@ -87,6 +95,7 @@
   },
   "closeableKeywords": {
     "end": {
+      "class": "KEYWORD",
       "prototype": "end",
       "description": "Closes the current block.",
       "translations": {

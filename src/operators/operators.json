@@ -1,6 +1,7 @@
 {
   "arithmeticOperators": {
     "+": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE + DATA_TYPE",
       "description": "Addition",
       "translations": {
@@ -11,6 +12,7 @@
       }
     },
     "-": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE - DATA_TYPE",
       "description": "Subtraction",
       "translations": {
@@ -21,6 +23,7 @@
       }
     },
     "*": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE * DATA_TYPE",
       "description": "Multiplication",
       "translations": {
@@ -31,6 +34,7 @@
       }
     },
     "/": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE / DATA_TYPE",
       "description": "Division",
       "translations": {
@@ -41,6 +45,7 @@
       }
     },
     "%": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE % DATA_TYPE",
       "description": "Modulo",
       "translations": {
@@ -51,6 +56,7 @@
       }
     },
     "^": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE ^ DATA_TYPE",
       "description": "Exponentiation",
       "translations": {
@@ -61,6 +67,7 @@
       }
     },
     "//": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE // DATA_TYPE",
       "description": "Floor division",
       "translations": {
@@ -73,6 +80,7 @@
   },
   "comparisonOperators": {
     "==": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE == DATA_TYPE",
       "description": "Equal to",
       "translations": {
@@ -83,6 +91,7 @@
       }
     },
     "!=": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE != DATA_TYPE",
       "description": "Not equal to",
       "translations": {
@@ -93,6 +102,7 @@
       }
     },
     ">": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE > DATA_TYPE",
       "description": "Greater than",
       "translations": {
@@ -103,6 +113,7 @@
       }
     },
     "<": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE < DATA_TYPE",
       "description": "Less than",
       "translations": {
@@ -113,6 +124,7 @@
       }
     },
     ">=": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE >= DATA_TYPE",
       "description": "Greater than or equal to",
       "translations": {
@@ -123,6 +135,7 @@
       }
     },
     "<=": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE <= DATA_TYPE",
       "description": "Less than or equal to",
       "translations": {
@@ -135,6 +148,7 @@
   },
   "logicalOperators": {
     "&&": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE && DATA_TYPE",
       "description": "Logical AND",
       "translations": {
@@ -145,6 +159,7 @@
       }
     },
     "||": {
+      "class": "OPERATOR",
       "prototype": "DATA_TYPE || DATA_TYPE",
       "description": "Logical OR",
       "translations": {
@@ -155,6 +170,7 @@
       }
     },
     "!": {
+      "class": "OPERATOR",
       "prototype": "!DATA_TYPE",
       "description": "Logical NOT",
       "translations": {
@@ -167,6 +183,7 @@
   },
   "assignOperators": {
     "=": {
+      "class": "OPERATOR",
       "prototype": "VARIABLE = DATA_TYPE",
       "description": "Assignment",
       "translations": {

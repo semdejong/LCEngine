@@ -1,6 +1,7 @@
 {
   "declarationVariables": {
     "storage": {
+      "class": "VARIABLE",
       "prototype": "storage NAME",
       "description": "Creates an editable variable",
       "translations": {
@@ -11,6 +12,7 @@
       }
     },
     "const": {
+      "class": "VARIABLE",
       "prototype": "const NAME",
       "description": "Creates an non editable variable",
       "translations": {
@@ -21,6 +23,7 @@
       }
     },
     "var": {
+      "class": "VARIABLE",
       "prototype": "var NAME",
       "description": "Creates an global editable variable",
       "translations": {

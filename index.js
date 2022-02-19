@@ -1,3 +1,3 @@
-import LCEngine from "./src";
+import LCEngine from "./src/index.js";
 
 export default LCEngine;
